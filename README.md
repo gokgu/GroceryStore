@@ -1,5 +1,5 @@
 # GroceryStore
 Grocery Store Shopping
 
-Change code line in store_service
-"import GroceryStore.store_service as store_service"
+the same name with folder_name: GroceryStore at store_service.py
+"import folder_name.store_service as store_service"
